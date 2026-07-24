@@ -1,0 +1,6 @@
+{
+  "name": "Vibe3p",
+  "description": "Uma plataforma de recomendação com React, Express e PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
