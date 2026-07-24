@@ -7,7 +7,8 @@ O sistema foi estruturado de forma didática para demonstrar o fluxo completo de
 2. **Pré-processamento de Dados**: Extração de dados relacionais e conversão em vetores de características (*features*) normalizados (escala `[0, 1]`) com codificação *One-Hot* para categorias de clima e classificação de destinos.
 3. **Treinamento Síncrono de Rede Neural**: Compilação de um modelo sequencial (*Multilayer Perceptron*) no TensorFlow.js para calibrar os pesos dos neurônios com base no comportamento do usuário.
 4. **Inferência / Predições**: Cálculo de pontuações de afinidade em tempo real para propor os top destinos mais aderentes ao perfil de cada viajante.
-
+![Tela Inicial](Vibe3p-Home.png)
+![Tela Treinamento](Vibe3p-Treinamento.png)
 ---
 
 ## 🛠️ Requisitos de Ambiente (WSL / Docker)
